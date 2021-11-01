@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm CapDRAKE</h1>
+<h1 align="center">Hey 👋, I'm CapDRAKE</h1>
 <h3 align="center">A developer from France</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=capdrake&label=Profile%20views&color=0e75b6&style=flat" alt="capdrake" /> </p>
