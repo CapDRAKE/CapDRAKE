@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=capdrake" alt="capdrake" /></a> </p>
 
-- 🔭 I’m currently working on [Launcher MajestyCraft](https://github.com/CapDRAKE/majestycraft-LAUNCHER-V1.9)
+- 🔭 I’m currently working on [MajestyCraft Launcher](https://github.com/CapDRAKE/majestycraft-LAUNCHER-V1.9)
 
 - 🌱 I’m currently learning **IA and Big Data**
 
