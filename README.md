@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm CapDRAKE</h1>
 <h3 align="center">A developer from France</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=capdrake&label=Profile%20views&color=0e75b6&style=flat" alt="capdrake" /> </p>
+<p align="center"> <img src="https://avatars.githubusercontent.com/u/72074285?v=4" alt="capdrake" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=capdrake" alt="capdrake" /></a> </p>
 
