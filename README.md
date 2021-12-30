@@ -28,8 +28,8 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/CapDRAKE"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="CapDRAKE" /></a></p><br><br><br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=capdrake&show_icons=true&theme=dark&locale=en&layout=compact" alt="capdrake" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=capdrake&show_icons=true&theme=dark&locale=en&layout=compact" alt="capdrake" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=capdrake&show_icons=true&locale=en" alt="capdrake" /></p>
+<p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=capdrake&show_icons=true&locale=en" alt="capdrake" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=capdrake&theme=dark" alt="capdrake" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=capdrake&theme=dark" alt="capdrake" /></p>
