@@ -9,19 +9,11 @@
 
 - 🔭 I’m currently working on [Launcher MajestyCraft](https://github.com/CapDRAKE/majestycraft-LAUNCHER-V1.9)
 
-- 🌱 I’m currently learning **IA and Big Data**
-
-- 👯 I’m looking to collaborate on [Alternative API](https://github.com/CapDRAKE/AlternativeAPI-1.4.5-RELOADED)
-
-- 📝 I regularly write articles on [https://majestycraft.com/](https://majestycraft.com/)
-
 - 💬 Ask me about **Java, SQL, PHP...**
 
-- 📫 How to reach me **CapDRAKE#7011**
+- 📫 How to reach me **capdrake** (discord)
 
 - 📄 Know about my experiences [https://majestycraft.com/](https://majestycraft.com/)
-
-- ⚡ Fun fact **You have failed this city**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
